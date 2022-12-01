@@ -33,8 +33,8 @@ def main():
                 elves.append(elf)
                 count_calory = 0
                 elf = Elf()
+    elves.sort(key = lambda x: x.calory, reverse = True)
     print(f'time in {time.time() - start}')
-    print(max(elf.calory for elf in elves))
 
 
 if __name__ == '__main__':
