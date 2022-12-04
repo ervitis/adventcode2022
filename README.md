@@ -9,3 +9,8 @@
 
 - Exercise 1: [Rock, Paper, Scissors](./day2/rockpaperscissors/README.md)
 - Exercise 2: [Rock, Paper, Scissors with trick](./day2/rockpaperscissorstricked/README.md)
+
+## Day 3
+
+- Exercise 1: [Rock, Paper, Scissors](./day3/rucksackreorganization/README.md)
+- Exercise 2: [Rock, Paper, Scissors with trick](./day3/rucksackwithsecurity/README.md)
