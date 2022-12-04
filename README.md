@@ -12,5 +12,5 @@
 
 ## Day 3
 
-- Exercise 1: [Rock, Paper, Scissors](./day3/rucksackreorganization/README.md)
-- Exercise 2: [Rock, Paper, Scissors with trick](./day3/rucksackwithsecurity/README.md)
+- Exercise 1: [Ruck sack reorganization](./day3/rucksackreorganization/README.md)
+- Exercise 2: [Ruck sack with security in groups](./day3/rucksackwithsecurity/README.md)
