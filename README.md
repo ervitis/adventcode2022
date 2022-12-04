@@ -14,3 +14,8 @@
 
 - Exercise 1: [Ruck sack reorganization](./day3/rucksackreorganization/README.md)
 - Exercise 2: [Ruck sack with security in groups](./day3/rucksackwithsecurity/README.md)
+
+## Day 4
+
+- Exercise 1: [Camp cleanup](./day4/campcleanup/README.md)
+- Exercise 2: [Camp cleanup overlapping](./day4/campcleanupoverlap/README.md)
