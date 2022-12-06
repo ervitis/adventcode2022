@@ -19,3 +19,8 @@
 
 - Exercise 1: [Camp cleanup](./day4/campcleanup/README.md)
 - Exercise 2: [Camp cleanup overlapping](./day4/campcleanupoverlap/README.md)
+
+## Day 5
+
+- Exercise 1: [Camp cleanup](./day5/supplystacks/README.md)
+- Exercise 2: [Camp cleanup overlapping](./day5/supplystacksmultiple/README.md)
