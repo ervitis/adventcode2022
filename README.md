@@ -29,3 +29,8 @@
 
 - Exercise 1: [Camp cleanup](./day6/tuningtrouble/README.md)
 - Exercise 2: [Camp cleanup overlapping](./day6/lookmessages/README.md)
+
+## Day 7
+
+- Exercise 1: [Camp cleanup](./day7/nospaceleft/README.md)
+- Exercise 2: [Camp cleanup overlapping](./day7/deletefiles/README.md)
