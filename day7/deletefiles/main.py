@@ -1,3 +1,4 @@
+import math
 from collections import defaultdict
 
 
@@ -26,13 +27,14 @@ def main():
                     except:
                         pass
 
-    max_size_files = 100000
-    total_size = 0
+    best = math.inf
+    to_clean = dirs['/'] - (70000000 - 30000000)
     for k, v in dirs.items():
-        if v <= max_size_files:
-            total_size += v
-    print(total_size)
+        if v >= to_clean:
+            best = min(best, v)
+    print(best)
 
 
 if __name__ == '__main__':
     main()
+    
