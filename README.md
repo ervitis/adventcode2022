@@ -35,6 +35,11 @@
 - Exercise 1: [Camp cleanup](./day7/nospaceleft/README.md)
 - Exercise 2: [Camp cleanup overlapping](./day7/deletefiles/README.md)
 
+## Day 8
+
+- Exercise 1: [Camp cleanup](./day8/treetoptreehouse/README.md)
+- Exercise 2: [Camp cleanup overlapping](./day8/bestspot/README.md)
+
 ## Day 9
 
 - Exercise 1: [Camp cleanup](./day9/ropebridge/README.md)
