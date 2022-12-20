@@ -22,30 +22,30 @@
 
 ## Day 5
 
-- Exercise 1: [Camp cleanup](./day5/supplystacks/README.md)
-- Exercise 2: [Camp cleanup overlapping](./day5/supplystacksmultiple/README.md)
+- Exercise 1: [Supply stacks](./day5/supplystacks/README.md)
+- Exercise 2: [Multiple suply stacks](./day5/supplystacksmultiple/README.md)
 
 ## Day 6
 
-- Exercise 1: [Camp cleanup](./day6/tuningtrouble/README.md)
-- Exercise 2: [Camp cleanup overlapping](./day6/lookmessages/README.md)
+- Exercise 1: [Look messages](./day6/tuningtrouble/README.md)
+- Exercise 2: [Tunning messages](./day6/lookmessages/README.md)
 
 ## Day 7
 
-- Exercise 1: [Camp cleanup](./day7/nospaceleft/README.md)
-- Exercise 2: [Camp cleanup overlapping](./day7/deletefiles/README.md)
+- Exercise 1: [No space left](./day7/nospaceleft/README.md)
+- Exercise 2: [Delete files](./day7/deletefiles/README.md)
 
 ## Day 8
 
-- Exercise 1: [Camp cleanup](./day8/treetoptreehouse/README.md)
-- Exercise 2: [Camp cleanup overlapping](./day8/bestspot/README.md)
+- Exercise 1: [Tree house](./day8/treetoptreehouse/README.md)
+- Exercise 2: [Best spot in forest](./day8/bestspot/README.md)
 
 ## Day 9
 
-- Exercise 1: [Camp cleanup](./day9/ropebridge/README.md)
-- Exercise 2: [Camp cleanup overlapping](./day9/largerrope/README.md)
+- Exercise 1: [Rope bridge](./day9/ropebridge/README.md)
+- Exercise 2: [Large rope](./day9/largerrope/README.md)
 
 ## Day 10
 
-- Exercise 1: [Camp cleanup](./day10/cathoderay/README.md)
-- Exercise 2: [Camp cleanup overlapping](./day10/crt/README.md)
+- Exercise 1: [Cathode Ray](./day10/cathoderay/README.md)
+- Exercise 2: [CRT](./day10/crt/README.md)
